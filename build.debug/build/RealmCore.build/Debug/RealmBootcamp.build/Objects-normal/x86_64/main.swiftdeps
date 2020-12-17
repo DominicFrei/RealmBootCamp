@@ -1,0 +1,324 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Config"
+- "config"
+- "className"
+- "primaryKey"
+- "classInfo"
+- "propertyName1"
+- "propertyName2"
+- "propertyName3"
+- "emptyString"
+- "property1"
+- "property2"
+- "property3"
+- "classProperties"
+- "unsafeBufferPointer"
+- "unsafeMutablePointer"
+- "schema"
+- "realm"
+- "error"
+provides-nominal:
+- "13RealmBootcamp6ConfigV"
+provides-member:
+- ["13RealmBootcamp6ConfigV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "..."
+- "Array"
+- "AssignmentPrecedence"
+- "Config"
+- "FloatLiteralType"
+- "Int32"
+- "IntegerLiteralType"
+- "OpaquePointer"
+- "RLM_CLASS_NORMAL"
+- "RLM_COLLECTION_TYPE_NONE"
+- "RLM_PROPERTY_NORMAL"
+- "RLM_PROPERTY_TYPE_INT"
+- "RLM_SCHEMA_MODE_AUTOMATIC"
+- "String"
+- "StringLiteralType"
+- "UnicodeScalarType"
+- "UnsafeMutablePointer"
+- "UnsafePointer"
+- !private "cConfig"
+- "classInfo"
+- "className"
+- "classProperties"
+- "config"
+- "emptyString"
+- "error"
+- "primaryKey"
+- "print"
+- "property1"
+- "property2"
+- "property3"
+- "propertyName1"
+- "propertyName2"
+- "propertyName3"
+- "realm"
+- "realm_class_info"
+- "realm_col_key"
+- !private "realm_config_new"
+- !private "realm_config_set_path"
+- "realm_config_set_schema"
+- "realm_config_set_schema_mode"
+- "realm_config_set_schema_version"
+- "realm_error_t"
+- "realm_get_last_error"
+- "realm_open"
+- "realm_property_info_t"
+- "realm_schema_new"
+- "realm_string"
+- "realm_table_key"
+- "schema"
+- "strdup"
+- "unsafeBufferPointer"
+- "unsafeMutablePointer"
+depends-member:
+- ["s18AdditiveArithmeticP", ""]
+- ["s18AdditiveArithmeticP", "init"]
+- ["Sa", "withUnsafeBufferPointer"]
+- ["SK", ""]
+- ["SK", "baseAddress"]
+- ["SK", "count"]
+- ["SK", "init"]
+- ["SK", "withUnsafeBufferPointer"]
+- ["Sz", ""]
+- ["Sz", "init"]
+- ["s7CVarArgP", "advanced"]
+- ["s7CVarArgP", "allocate"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "pointee"]
+- ["Sl", ""]
+- ["Sl", "baseAddress"]
+- ["Sl", "count"]
+- ["Sl", "init"]
+- ["Sl", "withUnsafeBufferPointer"]
+- ["SL", ""]
+- ["SL", "advanced"]
+- ["SL", "allocate"]
+- ["SL", "count"]
+- ["SL", "init"]
+- ["SL", "pointee"]
+- ["13RealmBootcamp6ConfigV", "OpaquePointer"]
+- ["13RealmBootcamp6ConfigV", "cConfig"]
+- ["13RealmBootcamp6ConfigV", "init"]
+- !private ["13RealmBootcamp6ConfigV", "realm_config_new"]
+- !private ["13RealmBootcamp6ConfigV", "realm_config_set_path"]
+- !private ["13RealmBootcamp6ConfigV", "realm_string"]
+- !private ["13RealmBootcamp6ConfigV", "strdup"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "advanced"]
+- ["s28CustomDebugStringConvertibleP", "allocate"]
+- ["s28CustomDebugStringConvertibleP", "baseAddress"]
+- ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "pointee"]
+- ["s28CustomDebugStringConvertibleP", "withUnsafeBufferPointer"]
+- ["s17CustomReflectableP", ""]
+- ["s17CustomReflectableP", "advanced"]
+- ["s17CustomReflectableP", "allocate"]
+- ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "pointee"]
+- ["s17CustomReflectableP", "withUnsafeBufferPointer"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "withUnsafeBufferPointer"]
+- ["Se", "count"]
+- ["Se", "init"]
+- ["Se", "withUnsafeBufferPointer"]
+- ["SE", "count"]
+- ["SE", "init"]
+- ["SE", "withUnsafeBufferPointer"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "advanced"]
+- ["SQ", "allocate"]
+- ["SQ", "count"]
+- ["SQ", "init"]
+- ["SQ", "pointee"]
+- ["SQ", "rawValue"]
+- ["SQ", "withUnsafeBufferPointer"]
+- ["s25ExpressibleByArrayLiteralP", ""]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- ["s25ExpressibleByArrayLiteralP", "withUnsafeBufferPointer"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "count"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", ""]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s32ExpressibleByStringInterpolationP", "count"]
+- ["s32ExpressibleByStringInterpolationP", "init"]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s26ExpressibleByStringLiteralP", "count"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "count"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s17FixedWidthIntegerP", "init"]
+- ["SH", ""]
+- ["SH", "advanced"]
+- ["SH", "allocate"]
+- ["SH", "count"]
+- ["SH", "init"]
+- ["SH", "pointee"]
+- ["SH", "withUnsafeBufferPointer"]
+- ["s5Int32V", "init"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["s25LosslessStringConvertibleP", "count"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "count"]
+- ["s10MirrorPathP", "init"]
+- ["SM", "withUnsafeBufferPointer"]
+- ["Sj", ""]
+- ["Sj", "init"]
+- ["Sk", "baseAddress"]
+- ["Sk", "withUnsafeBufferPointer"]
+- ["Sm", ""]
+- ["Sm", "count"]
+- ["Sm", "init"]
+- ["Sm", "withUnsafeBufferPointer"]
+- ["SY", "RawValue"]
+- ["SY", "rawValue"]
+- ["s10SIMDScalarP", "init"]
+- ["ST", "Element"]
+- ["ST", "Iterator"]
+- ["ST", ""]
+- ["ST", "baseAddress"]
+- ["ST", "count"]
+- ["ST", "init"]
+- ["ST", "makeIterator"]
+- ["ST", "withUnsafeBufferPointer"]
+- ["SZ", "init"]
+- ["s13SignedNumericP", ""]
+- ["s13SignedNumericP", "init"]
+- ["Sx", ""]
+- ["Sx", "advanced"]
+- ["Sx", "allocate"]
+- ["Sx", "init"]
+- ["Sx", "pointee"]
+- ["SS", "count"]
+- ["SS", "init"]
+- ["Sy", "count"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", ""]
+- ["s16TextOutputStreamP", "count"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", ""]
+- ["s20TextOutputStreamableP", "count"]
+- ["s20TextOutputStreamableP", "init"]
+- ["SR", "baseAddress"]
+- ["Sp", "advanced"]
+- ["Sp", "allocate"]
+- ["Sp", "pointee"]
+- ["s14_ArrayProtocolP", "withUnsafeBufferPointer"]
+- ["s30_CustomPlaygroundQuickLookableP", "advanced"]
+- ["s30_CustomPlaygroundQuickLookableP", "allocate"]
+- ["s30_CustomPlaygroundQuickLookableP", "count"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s30_CustomPlaygroundQuickLookableP", "pointee"]
+- ["s24_DestructorSafeContainerP", "withUnsafeBufferPointer"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "count"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "count"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "count"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s19_HasContiguousBytesP", "baseAddress"]
+- ["s19_HasContiguousBytesP", "count"]
+- ["s19_HasContiguousBytesP", "init"]
+- ["s19_HasContiguousBytesP", "withUnsafeBufferPointer"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "withUnsafeBufferPointer"]
+- ["s8_PointerP", "advanced"]
+- ["s8_PointerP", "allocate"]
+- ["s8_PointerP", "pointee"]
+- ["So17realm_class_flagsV", "RawValue"]
+- ["So17realm_class_flagsV", "rawValue"]
+- ["So16realm_class_infoV", "init"]
+- ["So13realm_col_keyV", "init"]
+- ["So11realm_errorV", "init"]
+- ["So11realm_errorV", "message"]
+- ["So20realm_property_flagsV", "RawValue"]
+- ["So20realm_property_flagsV", "rawValue"]
+- ["So19realm_property_infoV", "init"]
+- ["So12realm_stringV", "data"]
+- ["So12realm_stringV", "init"]
+- ["So15realm_table_keyV", "init"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- "Sa"
+- "SK"
+- "Sz"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "13RealmBootcamp6ConfigV"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s17FixedWidthIntegerP"
+- "SH"
+- "s5Int32V"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "SM"
+- "Sj"
+- "Sk"
+- "Sm"
+- "SY"
+- "s10SIMDScalarP"
+- "ST"
+- "SZ"
+- "s13SignedNumericP"
+- "Sx"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "SR"
+- "Sp"
+- "s14_ArrayProtocolP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s8_PointerP"
+- "So17realm_class_flagsV"
+- "So16realm_class_infoV"
+- "So13realm_col_keyV"
+- "So11realm_errorV"
+- "So20realm_property_flagsV"
+- "So19realm_property_infoV"
+- "So12realm_stringV"
+- "So15realm_table_keyV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/dominic.frei/Repositories/capi2/src/realm/realm.h"
+- "/Users/dominic.frei/Repositories/capi2/build.debug/build/RealmCore.build/Debug/RealmC.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/Darwin.apinotes"
+interface-hash: "4bb72815d025890dfbbcacb8f1075745"
